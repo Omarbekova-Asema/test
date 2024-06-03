@@ -293,7 +293,7 @@ const items = ref([
 }
 .bba{
   width: 10px;
-  height: 1px;
+  height: 2px;
   background: white;
 }
 .aaa{
